@@ -1,0 +1,1 @@
+obj-$(CONFIG_PCA9505)		+= pca9505.o

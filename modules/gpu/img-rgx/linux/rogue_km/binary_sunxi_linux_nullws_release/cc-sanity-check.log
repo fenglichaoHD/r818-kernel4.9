@@ -1,0 +1,3 @@
+<stdin>: In function 'main':
+<stdin>:1:16: warning: 'return' with no value, in function returning non-void
+<stdin>:1:5: note: declared here

@@ -1,0 +1,8 @@
+config CONFIG_PCA9505
+	tristate "pca9505 support"
+	default n
+	---help---
+	  This driver pca9505 supoort for zjy
+
+	  To compile this driver as a module, choose M here. The module
+	  will be called zjy.
